@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/awb-res/merged/debug/com.mobile.android-secondbundle/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/mipmap-xhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/awb-res/merged/debug/com.mobile.android-secondbundle/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/mipmap-xhdpi-v4/ic_launcher.png"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/incremental/mergeDebugResource[com.mobile.android-splashscreen]/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 602
+                    }
+                }
+            }
+        ]
+    }
+]

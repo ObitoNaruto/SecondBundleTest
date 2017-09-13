@@ -1,0 +1,27 @@
+{
+	"awbs":{
+		"com.mobile.android:secondbundle:1.0.0@awb":[],
+		"com.mobile.android:splashscreen:1.0.0@awb":[],
+		"com.mobile.android:middleware:1.0.0@awb":[]
+	},
+	"mainDex":[
+		"com.android.support.constraint:constraint-layout-solver:1.0.2@jar",
+		"com.android.support.constraint:constraint-layout:1.0.2@aar",
+		"com.android.support:animated-vector-drawable:25.1.0@aar",
+		"com.android.support:appcompat-v7:25.1.0@aar",
+		"com.android.support:design:25.1.0@aar",
+		"com.android.support:recyclerview-v7:25.1.0@aar",
+		"com.android.support:support-annotations:25.1.0@jar",
+		"com.android.support:support-compat:25.1.0@aar",
+		"com.android.support:support-core-ui:25.1.0@aar",
+		"com.android.support:support-core-utils:25.1.0@aar",
+		"com.android.support:support-fragment:25.1.0@aar",
+		"com.android.support:support-media-compat:25.1.0@aar",
+		"com.android.support:support-v4:25.1.0@aar",
+		"com.android.support:support-vector-drawable:25.1.0@aar",
+		"com.android.support:transition:25.1.0@aar",
+		"com.mobile.android:splashscreen-lottie:1.0.0@aar",
+		"com.taobao.android:atlas_core:5.0.7.30@aar",
+		"com.taobao.android:atlasupdate:1.1.4.10@aar"
+	]
+}

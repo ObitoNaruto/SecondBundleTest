@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="/home/mi/Android/Sdk/.android/build-cache/5df3aa9d37a10e92a70ed1fadd42d7db48c553e5/output/res"/></dataSet><dataSet config="output" generated-set="output$Generated"><source path="/home/mi/Android/Sdk/.android/build-cache/5df3aa9d37a10e92a70ed1fadd42d7db48c553e5/output/res"><file path="/home/mi/Android/Sdk/.android/build-cache/5df3aa9d37a10e92a70ed1fadd42d7db48c553e5/output/res/values/values.xml" qualifiers=""><declare-styleable name="LottieAnimationView"><attr format="string" name="lottie_fileName"/><attr format="boolean" name="lottie_autoPlay"/><attr format="boolean" name="lottie_loop"/><attr format="string" name="lottie_imageAssetsFolder"/><attr format="float" name="lottie_progress"/><attr format="enum" name="lottie_cacheStrategy">
+            <enum name="none" value="0"/>
+            <enum name="weak" value="1"/>
+            <enum name="strong" value="2"/>
+        </attr></declare-styleable><color name="black_overlay">#66000000</color><item name="lottie_layer_name" type="id"/><string name="app_name">Android-middleware-library</string></file></source></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LottieAnimationView"><attr format="string" name="lottie_fileName"/><attr format="boolean" name="lottie_autoPlay"/><attr format="boolean" name="lottie_loop"/><attr format="string" name="lottie_imageAssetsFolder"/><attr format="float" name="lottie_progress"/><attr format="enum" name="lottie_cacheStrategy">
+            <enum name="none" value="0"/>
+            <enum name="weak" value="1"/>
+            <enum name="strong" value="2"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

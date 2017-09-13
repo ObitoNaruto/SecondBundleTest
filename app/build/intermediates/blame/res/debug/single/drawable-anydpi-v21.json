@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/ccf14c1d89651de50d76fefc70bca134d0bdab6e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/ccf14c1d89651de50d76fefc70bca134d0bdab6e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

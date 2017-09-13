@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res"/></dataSet><dataSet config="output" generated-set="output$Generated"><source path="/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res"><file name="activity_welcome" path="/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/layout/activity_welcome.xml" qualifiers="" type="layout"/><file path="/home/mi/Android/Sdk/.android/build-cache/cd63971cfe789e6f639a58dbf840857d686ea819/output/res/values/values.xml" qualifiers=""><color name="black_overlay">#66000000</color><string name="app_name">splashscreen</string><style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style><style name="FullscreenTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style></file></source></dataSet><mergedItems/></merger>

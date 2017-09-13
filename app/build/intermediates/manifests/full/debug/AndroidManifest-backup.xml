@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobile.android.atlaswrapper"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--
+    android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+    -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- <activity android:name=".MainActivity"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <service
+            android:name="com.taobao.atlas.dexmerge.DexMergeService"
+            android:process=":dexmerge" >
+            <intent-filter>
+                <action android:name="com.taobao.atlas.dexmerge.DexMergeService" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.taobao.atlas.update.AwoPatchReceiver" >
+            <intent-filter>
+                <action android:name="com.taobao.atlas.intent.PATCH_APP" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.atlas.intent.DEX_PATCH_APP" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.atlas.intent.ROLLBACK_PATCH" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.atlas.intent.ROLLBACK_DEX_PATCH" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.taobao.android.runtime.Dex2OatService"
+            android:process=":dex2oat" />
+
+        <activity
+            android:name="com.mobile.android.splashscreen.ui.WelcomeActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mobile.android.secondbundle.MainActivity" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+    </application>
+
+</manifest>

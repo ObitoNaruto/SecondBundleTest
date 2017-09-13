@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/incremental/mergeDebugResource[com.mobile.android-secondbundle]/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 46,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 50,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 49,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 49,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "/home/mi/xinming/study/androidNewTech/SecondBundleTest/app/build/intermediates/exploded-awb/com.mobile.android/secondbundle/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 563
+                    }
+                }
+            }
+        ]
+    }
+]
